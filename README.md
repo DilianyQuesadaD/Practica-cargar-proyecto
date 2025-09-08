@@ -1,2 +1,2 @@
-# Practica-cargar-proyecto
-Repositorio para practicar el uso de GitHub y la carga de proyectos
+# Sobre mi proyecto de carga de archivos.
+Este proyecto lo realizo como práctica, no es mi mejor intento; pero algo lograré con esto.
